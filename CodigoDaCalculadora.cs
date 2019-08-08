@@ -56,7 +56,8 @@ namespace ConsoleApp150
                 {
                     Console.WriteLine("Obrigado por utilizar a minha calculadora: by Nabaia");
                 }
-            } while (sair != 'S');      
+            } while (sair != 'S');
+            Console.WriteLine("Olá mundo");
         }
     }
 }
